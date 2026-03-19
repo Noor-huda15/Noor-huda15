@@ -30,15 +30,13 @@ I'm currently on an exciting journey exploring the vast world of computer scienc
 - Figma (UI/UX Design)
 - Firebase, REST APIs
 
+
+```markdown
 ## 📚 Currently Learning
 
 I'm on a continuous learning journey! Right now, I'm diving deeper into:
 
-```javascript
-const learning = {
-    currentFocus: "Full Stack Development",
-    exploring: ["Cloud Computing", "System Design", "Advanced DSA"],
-    nextStop: "Machine Learning & Deep Learning",
-    dailyHabit: "Code at least 1 hour every day"
-};
-```
+- **Current Focus:** Full Stack Development
+- **Exploring:** Cloud Computing, System Design, Advanced DSA
+- **Next Stop:** Machine Learning & Deep Learning
+- **Daily Habit:** Code at least 1 hour every day
