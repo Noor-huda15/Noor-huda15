@@ -36,8 +36,8 @@ I'm on a continuous learning journey! Right now, I'm diving deeper into:
 
 ```javascript
 const learning = {
-  currentFocus: "Full Stack Development & AI Integration",
-  exploring: ["Cloud Computing", "System Design", "Advanced DSA"],
-  nextStop: "Machine Learning & Deep Learning",
-  dailyHabit: "Code at least 1 hour everyday"
+    currentFocus: "Full Stack Development",
+    exploring: ["Cloud Computing", "System Design", "Advanced DSA"],
+    nextStop: "Machine Learning & Deep Learning",
+    dailyHabit: "Code at least 1 hour every day"
 };
