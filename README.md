@@ -17,25 +17,23 @@ I'm a Computer Science student passionate about building practical solutions thr
 
 ## 🛠️ Tools & Technologies
 
-```
-Languages:  Python, Java, C++, JavaScript, PHP
-Frontend:   HTML5, CSS3, React, Bootstrap
-Backend:    Node.js, Express.js, MySQL, MongoDB, Firebase
-AI/ML:      TensorFlow, OpenCV, Jupyter Notebooks
-Tools:      VS Code, Git & GitHub, Postman, Figma
-```
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, Java, C++, JavaScript, PHP |
+| **Frontend** | HTML5, CSS3, React, Bootstrap |
+| **Backend** | Node.js, Express.js, MySQL, MongoDB, Firebase |
+| **AI/ML** | TensorFlow, OpenCV, Jupyter Notebooks |
+| **Tools** | VS Code, Git & GitHub, Postman, Figma |
 
 ---
 
 ## 📚 Currently Learning
 
-```
-Full Stack Development    (Current Focus)
-Cloud Computing          (Exploring)
-System Design            (Exploring)
-Advanced DSA             (Exploring)
-Machine Learning         (Next Stop)
-```
+- **Full Stack Development** - Current Focus
+- **Cloud Computing** - Exploring
+- **System Design** - Exploring
+- **Advanced DSA** - Exploring
+- **Machine Learning** - Next Stop
 
 *Daily Habit: Code at least 1 hour every day*
 
@@ -43,8 +41,8 @@ Machine Learning         (Next Stop)
 
 ## 🚀 Featured Projects
 
-### Student & Academic Management System
-**Description:** A complete digitization solution for educational institutions handling student records, course registration, grade tracking, and faculty management.
+### 📘 Student & Academic Management System
+A complete digitization solution for educational institutions handling student records, course registration, grade tracking, and faculty management.
 
 **Tech Stack:** PHP, MySQL, HTML/CSS, JavaScript
 
@@ -59,8 +57,8 @@ Machine Learning         (Next Stop)
 
 ---
 
-### DeepGuard - Deepfake Detection System
-**Description:** An AI-powered tool that detects deepfake content in images and videos using deep learning techniques to combat digital misinformation.
+### 🛡️ DeepGuard - Deepfake Detection System
+An AI-powered tool that detects deepfake content in images and videos using deep learning techniques to combat digital misinformation.
 
 **Tech Stack:** Python, TensorFlow, OpenCV, Flask
 
@@ -71,12 +69,9 @@ Machine Learning         (Next Stop)
 - User-friendly interface
 - Batch processing capability
 
-[🔗 Repository Link Coming Soon]
+*Repository link coming soon*
 
+---
 
-
-## 📫 Connect With Me
-
-[LinkedIn](https://linkedin.com/in/yourusername) 
 
 *Always learning, always building.*
