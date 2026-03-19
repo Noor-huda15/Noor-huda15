@@ -41,3 +41,4 @@ const learning = {
     nextStop: "Machine Learning & Deep Learning",
     dailyHabit: "Code at least 1 hour every day"
 };
+```
