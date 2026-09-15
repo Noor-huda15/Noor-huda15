@@ -11,7 +11,7 @@ I'm a Computer Science student passionate about building practical solutions thr
 - 🔭 **Completed Projects:** Student Management System & Deepfake Detection (DeepGuard)
 - 🌱 **Currently Learning:** Full Stack Development, Cloud Computing, Advanced DSA
 - 💡 **Interested in:** Web Development, AI/ML, Database Design
-- 📫 **Reach me at:** your.email@example.com
+- 📫 **Reach me at:** noorprime150@gmail.com
 
 ---
 
